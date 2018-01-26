@@ -4,7 +4,26 @@ class: center, middle
 
 ---
 
-# Values
+# Table Of Contents
+- Core Tenants (Values)
+- Anecdotes That Illustrate Our Way of Thinking
+- Youth Stories
+- 
+
+---
+
+# Core Tenants (Values)
+- Default to Open
+- Learn how to learn; learn to love learning
+- Experience -> Access -> Pathways
+- Inquire Don’t Accuse
+- Progress not perfection
+- Problem Solvers not Problem Finders
+- Not knowing is acceptable, not thinking is not!
+- Willing to have uncomfortable conversations
+- Horizontal Collaboration
+- Shared Consciousness
+- Empowered Execution
 
 ---
 
@@ -13,4 +32,44 @@ Many places start you off with a 0 balance of trust and you have to earn trust. 
 
 ---
 
-# Introduction
+# Learn how to learn; learn to love learning
+
+---
+
+# Experience -> Access -> Pathways
+
+---
+
+# Inquire Don’t Accuse
+
+---
+
+# Progress not perfection
+
+---
+
+# Problem Solvers not Problem Finders
+
+---
+
+# Not knowing is acceptable, not thinking is not!
+
+---
+
+# Willing to have uncomfortable conversations
+
+---
+
+# Horizontal Collaboration
+
+---
+
+# Shared Consciousness
+
+---
+
+# Shared Consciousness
+
+---
+
+# Empowered Execution
