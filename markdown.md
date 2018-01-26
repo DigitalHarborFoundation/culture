@@ -1,14 +1,15 @@
 class: center, middle
 
-# Title
+# DHF Orientation
 
 ---
 
-# Agenda
+# Values
 
-1. Introduction
-2. Deep-dive
-3. ...
+---
+
+# Default to Open
+Many places start you off with a 0 balance of trust and you have to earn trust. Another way to phrase this though is that you start off distrusted. We prefer to take the opposite approach and provide our staff and our youth with a positive balance of trust. This is demonstrated by the tools we let them use, the fact that they have admin rights on their computers and largely, our Internet is unfiltered.
 
 ---
 
