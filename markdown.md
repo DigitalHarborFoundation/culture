@@ -4,6 +4,7 @@ class: center, middle
 ## Todo:
 - 3 Before Me
 - "Responsive to needs" & "Planned flexibility"
+- Accessibility vs Applicability
 
 ---
 
