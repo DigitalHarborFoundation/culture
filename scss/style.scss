@@ -1,0 +1,70 @@
+// sass imports
+@import 'vars';
+
+// typography imports
+// @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+// @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic');
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700,400italic');
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,700');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: $body-font;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $heading-font;
+}
+// remark styles
+
+.remark-container {
+  background-color: $deck-bg;
+  // margin: 1em;
+}
+
+.remark-slide {
+  max-width: 100%;
+}
+
+.remark-slide-number {
+  color: $offwhite;
+}
+
+.remark-slide-content {
+  background-color: $slide-bg;
+  color: $slide-text;
+  border: .2em solid $dhfblue;
+}
+
+.remark-slide-content {
+  ul {
+
+    border-left: .05em solid $dhfblue;
+    list-style-position: outside;
+    padding-left: 1em;
+
+    li {
+      list-style-type: none;
+      }
+
+    }
+
+  }
+
+  h1 {
+    text-transform: uppercase;
+  }
+
+  h2 {
+    text-transform: uppercase;
+  }
+}
+
+
+.remark-code, .remark-inline-code {
+  font-family: $code-font;
+}

@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic");
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700,400italic");
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,700");
+* {
+  box-sizing: border-box; }
+
+body {
+  font-family: "Lato", sans-serif; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Roboto", sans-serif; }
+
+.remark-container {
+  background-color: #FFE; }
+
+.remark-slide {
+  max-width: 100%; }
+
+.remark-slide-number {
+  color: #FFE; }
+
+.remark-slide-content {
+  background-color: #2c5768;
+  color: #FFE;
+  border: 0.2em solid #0091c9; }
+
+.remark-slide-content ul {
+  border-left: 0.05em solid #0091c9;
+  list-style-position: outside;
+  padding-left: 1em; }
+  .remark-slide-content ul li {
+    list-style-type: none; }
+    .remark-slide-content ul li:before {
+      color: red; }
+
+.remark-slide-content h1 {
+  text-transform: uppercase; }
+
+.remark-slide-content h2 {
+  text-transform: uppercase; }
+
+.remark-code, .remark-inline-code {
+  font-family: "Ubuntu Mono"; }

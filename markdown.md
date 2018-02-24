@@ -2,7 +2,7 @@ class: center, middle
 
 # DHF Orientation
 ## Todo:
-- 3 Before Me
+- Three Before Me
 - "Responsive to needs" & "Planned flexibility"
 - Accessibility vs Applicability
 - No one-word answers
@@ -13,7 +13,7 @@ class: center, middle
 - Core Tenants (Values)
 - Anecdotes That Illustrate Our Way of Thinking
 - Youth Stories
-- 
+-
 
 ---
 
