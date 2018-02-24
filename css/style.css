@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Roboto", sans-serif; }
 
 .remark-container {
-  background-color: #e3e9f0; }
+  background-color: #beebfd; }
 
 .remark-slide {
   max-width: 100%; }
@@ -20,12 +20,12 @@ h1, h2, h3, h4, h5, h6 {
   color: #FFE; }
 
 .remark-slide-content {
-  background-color: #2c5768;
+  background-color: #59737d;
   color: #FFE;
-  border: 0.2em solid #0091c9; }
+  border: 0.2em solid #008fc7; }
 
 .remark-slide-content ul {
-  border-left: 0.05em solid #0091c9;
+  border-left: 0.05em solid #008fc7;
   list-style-position: outside;
   padding-left: 1em; }
   .remark-slide-content ul li {
@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .remark-slide-content h1 {
   text-transform: uppercase;
-  color: #0091c9;
+  color: #FFE;
   display: inline-block;
   padding-bottom: .1em;
   border-bottom: 0.05em solid rgba(0, 145, 201, 0.75); }

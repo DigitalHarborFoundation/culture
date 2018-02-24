@@ -5,14 +5,26 @@ $body-font: 'Lato', sans-serif;
 $heading-font: 'Roboto', sans-serif;
 $code-font: 'Ubuntu Mono';
 
-$dhfblue: #0091c9;
+// primary color variables
+// $dhfblue: #0091c9;
 $offwhite: #FFE;
 $highlightblue: #158DC1;
 $accentblue: #2c5768;
 $lightgray: #e3e9f0;
 
-$deck-bg: $lightgray;
-$slide-bg: $accentblue;
-$slide-text: $offwhite;
+// dhfblue color palette
+$dhfblue: hsla(197, 100%, 39%, 1);
+$dhfblue-dark-one: hsla(197, 32%, 49%, 1);
+$dhfblue-dark-two: hsla(197, 17%, 42%, 1);
+$dhfblue-light-one: hsla(197, 76%, 77%, 1);
+$dhfblue-light-two: hsla(197, 95%, 87%, 1);
 
+// colors for remark purposes
+// $deck-bg: $lightgray;
+// $slide-bg: $accentblue;
+// $slide-text: $offwhite;
+// $slide-accent: $dhfblue;
+$deck-bg: $dhfblue-light-two;
+$slide-bg: $dhfblue-dark-two;
+$slide-text: $offwhite;
 $slide-accent: $dhfblue;
