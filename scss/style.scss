@@ -41,9 +41,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .remark-slide-content {
+
   ul {
 
     border-left: .05em solid $dhfblue;
+    // border-left: .1em solid rgba(0, 145, 201, .5);
     list-style-position: outside;
     padding-left: 1em;
 
@@ -53,10 +55,13 @@ h1, h2, h3, h4, h5, h6 {
 
     }
 
-  }
-
   h1 {
     text-transform: uppercase;
+    color: $dhfblue;
+    display: inline-block;
+    padding-bottom: .1em;
+    // border-bottom: .05em solid rgba(255, 255, 238, .1)
+    border-bottom: .05em solid rgba(0, 145, 201, .75)
   }
 
   h2 {
@@ -64,6 +69,10 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+.remark-slide-number {
+  color: $offwhite;
+  font-size: 1.5em;
+}
 
 .remark-code, .remark-inline-code {
   font-family: $code-font;

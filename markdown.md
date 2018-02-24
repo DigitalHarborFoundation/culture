@@ -13,7 +13,6 @@ class: center, middle
 - Core Tenants (Values)
 - Anecdotes That Illustrate Our Way of Thinking
 - Youth Stories
--
 
 ---
 
@@ -33,11 +32,18 @@ class: center, middle
 ---
 
 # Default to Open
-Many places start you off with a 0 balance of trust and you have to earn trust. Another way to phrase this though is that you start off distrusted. We prefer to take the opposite approach and provide our staff and our youth with a positive balance of trust. This is demonstrated by the tools we let them use, the fact that they have admin rights on their computers and largely, our Internet is unfiltered.
+
+- Many places start you off with a 0 balance of trust and you have to earn trust.
+
+- Another way to phrase this though is that you start off distrusted.
+
+- We prefer to take the opposite approach and provide our staff and our youth with a positive balance of trust.
+
+- This is demonstrated by the tools we let them use, the fact that they have admin rights on their computers and largely, our Internet is unfiltered.
 
 ---
 
-# Learn how to learn; learn to love learning
+# Learn How to Learn; learn to love learning
 
 ---
 
