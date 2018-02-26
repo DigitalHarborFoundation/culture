@@ -37,7 +37,7 @@ Many places start you off with a 0 balance of trust and you have to earn trust. 
 
 ---
 
-# Learn how to learn; learn to love learning
+# Learn how to learn; learn to love learning; learn to apply learning
 
 ---
 
