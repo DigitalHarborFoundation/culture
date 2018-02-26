@@ -41,6 +41,10 @@ Many places start you off with a 0 balance of trust and you have to earn trust. 
 
 ---
 
+# Learn to volunteer, volunteer to learn 
+
+---
+
 # Experience -> Access -> Pathways
 
 ---
