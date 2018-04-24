@@ -2,9 +2,9 @@ class: center, middle
 
 # DHF Orientation
 
-class: left
+---
 
-## Todo:
+# Todo:
 - 3 Before Me
 - "Responsive to needs" & "Planned flexibility"
 - Accessibility vs Applicability
