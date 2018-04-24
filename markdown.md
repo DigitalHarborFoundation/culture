@@ -1,6 +1,9 @@
 class: center, middle
 
 # DHF Orientation
+
+class: left
+
 ## Todo:
 - 3 Before Me
 - "Responsive to needs" & "Planned flexibility"
