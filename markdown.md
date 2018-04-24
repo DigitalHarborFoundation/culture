@@ -49,6 +49,52 @@ Many places start you off with a 0 balance of trust and you have to earn trust. 
 
 ---
 
+# Interested and Happy to Help
+
+---
+
+# Work is for the Willing
+For what is needed, not for what you want
+
+---
+
+# Read Your Audience
+
+---
+
+# We Don't Whine, We Solve Problems
+Lateral complanining doesn't do much of any good.
+
+---
+
+# Efficient and Effective
+
+---
+
+# Don't get Distracted
+
+---
+
+# Tone Matters; Don't Talk Down to Anyone
+
+---
+
+# Experience Matters, Listen and Learn from It
+
+---
+
+# DHF is not here to serve staff, we serve the students
+
+---
+
+# no place for hypocrisy 
+
+---
+
+# align to the clear view
+
+---
+
 # Inquire Don’t Accuse
 
 ---
