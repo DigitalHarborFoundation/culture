@@ -24,17 +24,17 @@ Not knowing something now is never a reason to not know something tomorrow. Don'
 ---
 
 # Learn how to learn; learn to love learning; learn to apply learning
-Anything tech tool we teach today is likely going to be obsolute before long. We embrace this and instead use every opportunity teaching a specific thing to instead teach the underlying skills, approach, and foster the passion, purpose, and process of learning itself. If we fail at doing this, nothing else we teach them will help them for very long.
+Any tech tool we teach today is likely going to be obsolete before long. We embrace this and instead use every opportunity teaching a specific thing to instead teach the underlying skills, approach, and foster the passion, purpose, and process of learning itself. If we fail at doing this, nothing else we teach them will help them for very long.
 
 ---
 
 # Learn to volunteer, volunteer to learn 
-If you don't know how to do something you should volunteer to learn. When an organization needs a thing that means it hasn't found a way to pay for it. This lack of funding can actually become an opportunity for you as it means the organization will gladly take a risk by accepting help from an unproven individual who volunteers with an interest in learning.
+If you don't know how to do something you should volunteer to learn. When an organization needs a thing that often means it hasn't found a way to pay for it. This lack of funding can actually become an opportunity for you as the organization will sometimes take a risk by accepting help from an unproven individual who volunteers with an interest in learning.
 
 ---
 
 # Three Before Me
-Whenever you have a question, do three things before asking up.
+Whenever you have a question, do three things to try to find the answer before asking up.
 
 ---
 
@@ -48,7 +48,7 @@ Start with a sample, join something substantial, and then proceed down a pathway
 ---
 
 # Default to Open; Default to Trust
-Many places start you off with a 0 balance of trust and you have to earn trust. Another way to phrase this though is that you start off distrusted. We prefer to take the opposite approach and provide our staff and our youth with a positive balance of trust. This is demonstrated by the tools we let them use, the fact that they have admin rights on their computers and largely, our Internet is unfiltered.
+Many places start you off with a 0 balance of trust and you have to earn trust. Another way to phrase this though is that you start off distrusted. We prefer to take the opposite approach and provide our staff and our youth with a positive balance of trust. This is demonstrated by the tools we let them use, the fact that they have admin rights on their computers and we don't aggressively or preemptively block the Internet.
 
 ---
 
@@ -58,7 +58,7 @@ Although it shouldn't change what you say, who you are speaking to should change
 ---
 
 # No One-Word Answers
-Questions require more than one word to ask. Answers should proportionally take more than one word to answer, if only to say thank you.
+Questions require more than one word to ask. Answers should take more than one word to respond.
 
 ---
 
@@ -68,12 +68,12 @@ Regardless of whether you are talking directly to someone or about them, your to
 ---
 
 # Accessibility vs Applicability
-Balance what is most avialable and approachable with what is most useful in real-world situation. Start with accessibility but always move towards applicability.
+Balance what is most available and approachable with what is most useful in real-world situations. Start with accessibility but always move towards applicability.
 
 ---
 
 # Planned Flexibility
-Build structures that allow for evaluation and change at points throughout a plan. 
+Build structures that allow for iteration and be willing to change direction at points throughout the process. Don't get stuck in a previous plan.
 
 ---
 
@@ -81,8 +81,8 @@ Build structures that allow for evaluation and change at points throughout a pla
 
 ---
 
-# Work is for the Willing
-For those willing to do what is needed needed, not just what they want, there will always be (and often an abudance of) work. For thos who only want to do certain things in specific ways, there is often a decreasing amount of work to be had.
+# Work Is For The Willing
+For those willing to do what is needed, not just what they want, there will always be (and often an abudance of) work. For those who only want to do certain things in specific ways, there is often a decreasing amount of work to be had.
 
 ---
 
@@ -92,17 +92,12 @@ The organization was founded to serve youth. Everything we do should be with an 
 ---
 
 # Interested and Happy to Help
-When something is needed, the best thing you can be is interested and happy to help.
+When something is needed, the best way to be is interested and happy to help.
 
 ---
 
 # We Don't Whine, We Solve Problems
-Solving problems without fussing moves you forward faster. Lateral complanining leaves you stuck in it and doesn't do much of any good.
-
----
-
-# Don't get Distracted
-Focusing on the task at hand requires discipline but is the only way to actually accomplish the task.
+Solving problems without fussing moves you forward faster. Lateral complaining leaves you stuck in it and does far more harm than good.
 
 ---
 
@@ -186,5 +181,10 @@ Knowing what someone else would do without asking requires empathy, understandin
 
 # Structural vs. Temporary
 Identify if a stressor is the result of a specific situation or underlying condition. Endure the temporary and fix the forever.
+
+---
+
+# Don't Get Distracted
+Focusing on your task at hand requires discipline but is the only way to actually accomplish the task.
 
 ---
