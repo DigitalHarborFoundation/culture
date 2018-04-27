@@ -11,6 +11,10 @@ class: center, middle
 - Work is for the Willing
 - Align to the Clear View
 - Effective & Efficient
+- "Responsive to needs" & "Planned flexibility"
+- Accessibility vs Applicability
+- No one-word answers
+>>>>>>> a4811d1a18a02067bda85bd82c7e2f585db0c101
 
 ---
 
